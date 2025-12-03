@@ -1,2 +1,2 @@
 
-test srv
+test-srv
